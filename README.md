@@ -7,7 +7,7 @@ A new mathematical framework for handling Infinities and infinitesimals.
 
       Overview
 
-J-Math provides an algebraic approach to limit evaluation, making difficult calculus problems more efficient and intuitive. It offers a structured way to handle paradoxes that standard calculus often leaves as "undefined."
+J-Math provides an algebraic type approach to limit evaluation, making difficult calculus problems more efficient and intuitive. It offers a structured way to handle paradoxes that standard calculus often leaves as "undefined."
 
        Key Capabilities
 
