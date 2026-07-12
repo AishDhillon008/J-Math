@@ -11,7 +11,7 @@ J-Math provides an algebraic type approach to limit evaluation, making difficult
 
        Key Capabilities
 
-•Algebraic Limit Evaluation: Compute limits without complex proofs.
+•Algebraic type Limit Evaluation: Compute limits without complex proofs.
 
 •Paradox Resolution: Effective handling of expression such as sin(infinity)
 
